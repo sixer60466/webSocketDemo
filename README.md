@@ -1,4 +1,4 @@
-1. git clone https://github.com/sixer60466/webSocketDemo.git
+1. git clone ..
 2. npm install
 3. npm start
 
